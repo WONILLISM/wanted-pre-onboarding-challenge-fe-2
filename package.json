@@ -1,0 +1,14 @@
+{
+  "name": "wanted-pre-onboarding-challenge-fe-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com-wopark:WONILLISM/wanted-pre-onboarding-challenge-fe-2.git",
+  "author": "WONILLISM <wonillism@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.0"
+  }
+}
